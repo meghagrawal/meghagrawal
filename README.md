@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am Megha, a data engineer. This is a place where my side projects hang out. Feel free to look around
 <!--
 **meghagrawal/meghagrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
