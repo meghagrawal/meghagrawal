@@ -34,13 +34,11 @@ Replace '[YOUR_USERNAME]' in the stats and project sections with your actual Git
 -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header" width="100%"/>
 
-<h1>Hi there, I'm <a href="https://github.com/meghagrawal">Megha</a>! 👋</h1>
-
-<h3>A passionate Data Engineer from India</h3>
+<h3>Hi there!👋 I'm <a href="https://github.com/meghagrawal">Megha.</a> A passionate Data Engineer from India</h3>
 </br>
-<a href="https://github.com/meghagrawal/professional-portfolio/"><img src="https://img.shields.io/badge/View_Professional_Portfolio-FF5729?style=for-the-badge&logo=github&logoColor=white" alt="Professional Portfolio"/>
+<a href="https://github.com/meghagrawal/professional-portfolio/"><img src="https://img.shields.io/badge/View_My_Professional_Portfolio-FF5729?style=for-the-badge&logo=github&logoColor=white" alt="Professional Portfolio"/>
 
 </a>
 </div>
@@ -89,6 +87,7 @@ If you want to discuss job openings or all things data engineering, connect with
 </a>
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=gradient&section=footer" width="100%"/>
 
 <!-- ### Apart from these skills, I have extensive experience in Data Modeling, Data Governance and architecting end-to-end pipelines. If you are looking for some samples of my work, please have a look at my professional portfolio
 
