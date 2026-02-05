@@ -53,6 +53,7 @@ Replace '[YOUR_USERNAME]' in the stats and project sections with your actual Git
 <!--- </div>
 ### Lanuages and formats
 <div align="left">-->
+</br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
 <img src="https://img.shields.io/badge/Avro-0081CB?style=for-the-badge&logo=apache&logoColor=white" alt="Avro" />
