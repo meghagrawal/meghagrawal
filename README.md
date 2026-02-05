@@ -50,7 +50,7 @@ Replace '[YOUR_USERNAME]' in the stats and project sections with your actual Git
 
 ### 🧐 About Me
 
-🔭 I’m currently working on a time-travel enabled snowflake native lineage framework
+🔭 I’m currently working on a snowflake,dbt,python pipeline
 
 🌱 I’m currently learning dbt
 
