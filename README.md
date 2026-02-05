@@ -48,7 +48,7 @@ Replace '[YOUR_USERNAME]' in the stats and project sections with your actual Git
 </a>
 </div>
 
-🧐 About Me
+### 🧐 About Me
 
 🔭 I’m currently working on a time-travel enabled snowflake native lineage framework
 
@@ -58,7 +58,7 @@ Replace '[YOUR_USERNAME]' in the stats and project sections with your actual Git
 
 💬 Ask me about Snowflake, Data Modeling, Data Warehousing and Data Governance
 
-🛠️ Languages and Tools
+### 🛠️ Languages and Tools
 
 <div align="left">
 <img src="https://img.shields.io/badge/-Snowflake-29B5E8?style=for-the-badge&logo=Snowflake&logoColor=white" alt="Snowflake" />
@@ -68,44 +68,20 @@ Replace '[YOUR_USERNAME]' in the stats and project sections with your actual Git
 <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
 <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Airflow" />
 </div>
-
-📊 GitHub Stats
-
-<div align="center">
-<!-- Replace [YOUR_USERNAME] with your GitHub username in the links below -->
-<img src="https://github-readme-stats.vercel.app/api?username=meghagrawal&show_icons=true&theme=radical&count_private=true" height="180" alt="stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmeghagrawal&layout=compact&theme=radical&langs_count=6" height="180" alt="languages" />
-</div>
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dmeghagrawal&theme=radical&hide_border=false" alt="streak" />
-</div>
-<!--🏆 Highlighted Projects
-
+<!--
+🏆 Highlighted Projects
 Project
-
 Description
-
 Stack
-
 Project Name 1
-
 A brief description of what this project does and the problem it solves.
-
-
-
 Project Name 2
-
 Another cool project description. Mention key features.
-
-
-
 Project Name 3
-
 A mobile app or library you built.
-
-
 -->
+<!--
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=meghagrawal&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </div>
+-->
