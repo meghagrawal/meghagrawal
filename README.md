@@ -79,7 +79,7 @@ Replace '[YOUR_USERNAME]' in the stats and project sections with your actual Git
 
 💬 Ask me about Snowflake, Data Modeling, Data Warehousing and Data Governance    
 
-If you want to connect to discuss job openings or all things data engineering, connect with me
+If you want to discuss job openings or all things data engineering, connect with me
 <div align= "left">
 <a href="https://linkedin.com/in/agrawalmegha360">
 <img src="https://img.shields.io/badge/LinkedIn-Connect?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
