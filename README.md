@@ -44,24 +44,23 @@ Replace '[YOUR_USERNAME]' in the stats and project sections with your actual Git
 <!--### 🛠️ My Toolkit-->
 
 <!--### Data Engineering and Databases-->
-<div align="left">
-<img src="https://img.shields.io/badge/-Snowflake-29B5E8?style=for-the-badge&logo=Snowflake&logoColor=white" alt="Snowflake" />
+<div align="center">
+  <img src="https://img.shields.io/badge/-Snowflake-29B5E8?style=for-the-badge&logo=Snowflake&logoColor=white" alt="Snowflake" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor%3Dwhite" alt="SQL" />
 <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Airflow" />
-<img src="https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor&white" alt="Teradata" />
+<img src="https://img.shields.io/badge/Apache%20Airflow-090900?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Airflow" />
+<img src="https://img.shields.io/badge/Teradata-099555?style=for-the-badge&logo=teradata&logoColor=white" alt="Teradata" />
 <!--- </div>
 ### Lanuages and formats
 <div align="left">-->
-</br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
-<img src="https://img.shields.io/badge/Avro-0081CB?style=for-the-badge&logo=apache&logoColor=white" alt="Avro" />
+<img src="https://img.shields.io/badge/Apache%20Avro-30638E?style=for-the-badge&logo=apache&logoColor=white" alt="Avro" />
 <!--</div>
 ### Tools & Management
 <div align = "left">-->
-<img src="https://img.shields.io/badge/git-%2523F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/jira-%25230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 <img src="https://img.shields.io/badge/qTest-E5682D?style=for-the-badge" alt="qTest" />
 </div>
 
