@@ -36,11 +36,11 @@ Replace '[YOUR_USERNAME]' in the stats and project sections with your actual Git
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%"/>
 
-<h1>Hi there, I'm <a href="https://www.google.com/search?q=https://github.com/meghagrawal">Megha</a>! 👋</h1>
+<h1>Hi there, I'm <a href="https://github.com/meghagrawal">Megha</a>! 👋</h1>
 
 <h3>A passionate Data Engineer from India</h3>
 
-<a href="https://www.google.com/search?q=https://linkedin.com/in/agrawalmegha360">
+<a href="https://linkedin.com/in/agrawalmegha360">
 <img src="https://img.shields.io/badge/LinkedIn-Connect?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:agrawalmegha360@gmail.com">
