@@ -39,13 +39,29 @@ Replace '[YOUR_USERNAME]' in the stats and project sections with your actual Git
 <h1>Hi there, I'm <a href="https://github.com/meghagrawal">Megha</a>! 👋</h1>
 
 <h3>A passionate Data Engineer from India</h3>
+</div>
 
-<a href="https://linkedin.com/in/agrawalmegha360">
-<img src="https://img.shields.io/badge/LinkedIn-Connect?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:agrawalmegha360@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<!--### 🛠️ My Toolkit-->
+
+<!--### Data Engineering and Databases-->
+<div align="left">
+<img src="https://img.shields.io/badge/-Snowflake-29B5E8?style=for-the-badge&logo=Snowflake&logoColor=white" alt="Snowflake" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor%3Dwhite" alt="SQL" />
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Airflow" />
+<img src="https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor&white" alt="Teradata" />
+<!--- </div>
+### Lanuages and formats
+<div align="left">-->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+<img src="https://img.shields.io/badge/Avro-0081CB?style=for-the-badge&logo=apache&logoColor=white" alt="Avro" />
+<!--</div>
+### Tools & Management
+<div align = "left">-->
+<img src="https://img.shields.io/badge/git-%2523F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/jira-%25230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+<img src="https://img.shields.io/badge/qTest-E5682D?style=for-the-badge" alt="qTest" />
 </div>
 
 ### 🧐 About Me
@@ -58,29 +74,16 @@ Replace '[YOUR_USERNAME]' in the stats and project sections with your actual Git
 
 💬 Ask me about Snowflake, Data Modeling, Data Warehousing and Data Governance
 
-### 🛠️ My Toolkit
+### Check out my <a href="https://github.com/meghagrawal/professional-portfolio/tree/main">professional-portfolio</a>
 
-### Data Engineering and Databases
-<div align="left">
-<img src="https://img.shields.io/badge/-Snowflake-29B5E8?style=for-the-badge&logo=Snowflake&logoColor=white" alt="Snowflake" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor%3Dwhite" alt="SQL" />
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Airflow" />
-<img src="https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor&white" alt="Teradata" />
-</div>
-
-### Lanuages and formats
-<div align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
-<img src="https://img.shields.io/badge/Avro-0081CB?style=for-the-badge&logo=apache&logoColor=white" alt="Avro" />
-</div>
-
-### Tools & Management
-<div align = "left">
-<img src="https://img.shields.io/badge/git-%2523F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/jira-%25230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-<img src="https://img.shields.io/badge/qTest-E5682D?style=for-the-badge" alt="qTest" />
+### Contact me
+<div align= "left">
+<a href="https://linkedin.com/in/agrawalmegha360">
+<img src="https://img.shields.io/badge/LinkedIn-Connect?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:agrawalmegha360@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 </div>
 
 
