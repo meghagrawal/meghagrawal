@@ -68,6 +68,9 @@ Replace '[YOUR_USERNAME]' in the stats and project sections with your actual Git
 <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
 <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Airflow" />
 </div>
+
+<!-- ### Apart from these skills, I have extensive experience in Data Modeling, Data Governance and architecting end-to-end pipelines. If you are looking for some samples of my work, please have a look at my professional portfolio
+
 <!--
 🏆 Highlighted Projects
 Project
