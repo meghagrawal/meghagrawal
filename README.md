@@ -34,16 +34,21 @@ Replace '[YOUR_USERNAME]' in the stats and project sections with your actual Git
 -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=header" width="100%"/>
 
 <h1>Hi there, I'm <a href="https://github.com/meghagrawal">Megha</a>! 👋</h1>
 
 <h3>A passionate Data Engineer from India</h3>
+</br>
+<a href="https://github.com/meghagrawal/professional-portfolio/"><img src="https://img.shields.io/badge/View_Professional_Portfolio-FF5729?style=for-the-badge&logo=github&logoColor=white" alt="Professional Portfolio"/>
+
+</a>
 </div>
 
-<!--### 🛠️ My Toolkit-->
+### 🛠️ My Toolkit
 
 <!--### Data Engineering and Databases-->
+</br>
 <div align="center">
   <img src="https://img.shields.io/badge/-Snowflake-29B5E8?style=for-the-badge&logo=Snowflake&logoColor=white" alt="Snowflake" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor%3Dwhite" alt="SQL" />
@@ -61,7 +66,7 @@ Replace '[YOUR_USERNAME]' in the stats and project sections with your actual Git
 <div align = "left">-->
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-<img src="https://img.shields.io/badge/qTest-E5682D?style=for-the-badge" alt="qTest" />
+<!--<img src="https://img.shields.io/badge/qTest-E5682D?style=for-the-badge" alt="qTest" />-->
 </div>
 
 ### 🧐 About Me
@@ -72,11 +77,9 @@ Replace '[YOUR_USERNAME]' in the stats and project sections with your actual Git
 
 👯 I’m looking to collaborate on data engineering related repos
 
-💬 Ask me about Snowflake, Data Modeling, Data Warehousing and Data Governance
+💬 Ask me about Snowflake, Data Modeling, Data Warehousing and Data Governance    
 
-### Check out my <a href="https://github.com/meghagrawal/professional-portfolio/tree/main">professional-portfolio</a>
-
-### Contact me
+If you want to connect to discuss job openings or all things data engineering, connect with me
 <div align= "left">
 <a href="https://linkedin.com/in/agrawalmegha360">
 <img src="https://img.shields.io/badge/LinkedIn-Connect?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
